@@ -26,6 +26,16 @@ Dự án thực hiện phân tích hiệu suất giao dịch, định giá bất
 * **Năm xây dựng trung bình (Avg Year Built):** 1989
 * **Số lần thay đổi giá trung bình (Avg Price Changes):** 3,03 lần / căn
 
+* ### Các chỉ số hiệu suất thị trường chung
+* **Tổng số lượng bất động sản (Total Properties):** 15.171 căn
+* **Giá niêm yết trung bình (Average Price):** $512.768
+* **Giá niêm yết trung vị (Median Price):** $405.000
+* **Đơn giá trung bình theo diện tích (Avg Price/SqFt):** $232,20 / sqft
+* **Thuế bất động sản trung bình (AVG Tax):** 1,99%
+* **Diện tích nhà trung bình (Avg Living Area):** 2.208 sqft (~205 m²)
+* **Năm xây dựng trung bình (Avg Year Built):** 1989
+* **Số lần thay đổi giá trung bình (Avg Price Changes):** 3,03 lần / căn
+
 ---
 
 ## 📈 3. Phân bố Chi tiết (Detailed Distributions)
@@ -45,12 +55,13 @@ Dự án thực hiện phân tích hiệu suất giao dịch, định giá bất
 
 | Khoảng giá | Số lượng bất động sản | Tỷ trọng | Đơn giá trung bình ($/sqft) |
 | :--- | :---: | :---: | :---: |
-| **Dưới $250k** | 1.996 | 13,2% | $151,39 |
-| **$250k - $400k** | 5.580 | 36,8% | $206,13 |
-| **$400k - $600k** | 4.355 | 28,7% | $240,86 |
-| **$600k - $1M** | 2.298 | 15,1% | $298,61 |
-| **Trên $1M** | 942 | 6,2% | $457,83 |
-| **Tổng cộng** | **15.171** | **100%** | **$238,54** |
+| **Dưới $200k** | 737 | 4,9% | $151,39 |
+| **$200k - $400k** | 6.722 | 44,3% | $206,13 |
+| **$400k - $600k** | 4.413 | 29,1% | $240,86 |
+| **$600k - $800k** | 1.676 | 11,0% | $280,50 |
+| **$800k - $1M** | 670 | 4,4% | $320,10 |
+| **Trên $1M** | 953 | 6,3% | $457,83 |
+| **Tổng cộng** | **15.171** | **100%** | **$232,20** |
 
 ---
 ## 🖥️ 4. POWER BI DASHBOARD PREVIEW
