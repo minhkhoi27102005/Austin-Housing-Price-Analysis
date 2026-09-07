@@ -21,15 +21,6 @@ Dự án thực hiện phân tích hiệu suất giao dịch, định giá bất
 * **Tổng số lượng bất động sản (Total Properties):** 15.171 căn
 * **Giá niêm yết trung bình (Average Price):** $512.768
 * **Giá niêm yết trung vị (Median Price):** $405.000
-* **Đơn giá trung bình theo diện tích (Avg Price/SqFt):** $238,54 / sqft (~$2.568 / m²)
-* **Diện tích nhà trung bình (Avg Living Area):** 2.208 sqft (~205 m²)
-* **Năm xây dựng trung bình (Avg Year Built):** 1989
-* **Số lần thay đổi giá trung bình (Avg Price Changes):** 3,03 lần / căn
-
-* ### Các chỉ số hiệu suất thị trường chung
-* **Tổng số lượng bất động sản (Total Properties):** 15.171 căn
-* **Giá niêm yết trung bình (Average Price):** $512.768
-* **Giá niêm yết trung vị (Median Price):** $405.000
 * **Đơn giá trung bình theo diện tích (Avg Price/SqFt):** $232,20 / sqft
 * **Thuế bất động sản trung bình (AVG Tax):** 1,99%
 * **Diện tích nhà trung bình (Avg Living Area):** 2.208 sqft (~205 m²)
